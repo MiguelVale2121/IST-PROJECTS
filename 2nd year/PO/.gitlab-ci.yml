@@ -1,0 +1,16 @@
+default:
+  image: openjdk:17-alpine
+
+stages:          # List of stages for jobs, and their order of execution
+  - test
+
+po-test:   # This job runs in the test stage.
+  stage: test    # It only starts when the job in the build stage completes successfully.
+  before_script:
+    - apk add --update --no-cache diffutils
+  script:
+    - echo "Compiling code..."
+    - javac -cp po-uilib-v15.jar:. `find ggc -name "*.java"`
+    - echo "Running tests"
+    - chmod +x runtests.sh
+    - sh runtests.sh

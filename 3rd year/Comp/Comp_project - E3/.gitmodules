@@ -1,0 +1,3 @@
+[submodule "testes"]
+	path = testes
+	url = git@gitlab.rnl.tecnico.ulisboa.pt:leic-t-co23/testes.git
