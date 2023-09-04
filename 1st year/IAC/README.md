@@ -9,8 +9,6 @@
 
 Nave Guardiã Mineradora is a project that explores the fundamentals of Computer Architecture, including assembly language programming, working with peripherals, and handling interrupts. The primary objective of this project is to create a simulation game featuring a spaceship that mines asteroids while defending itself against enemy ships. The game interface includes a screen, a keyboard for control, and a set of displays to show the spaceship's energy level.
 
-![Game Screenshot](screenshot.png) <!-- Include a screenshot of your game if possible -->
-
 ## Objectives
 
 The main objectives of this project are as follows:
