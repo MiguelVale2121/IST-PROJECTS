@@ -12,7 +12,7 @@ This repository contains the source code and documentation for my Probability an
 ## Exercise List
 
 1. [Exercise 1](/2nd%20year/PE/EX1): 
-2. [Exercise 2](/2nd%20year/PE/X2): 
+2. [Exercise 2](/2nd%20year/PE/EX2): 
 3. [Exercise 3](/2nd%20year/PE/EX3): 
 4. [Exercise 4](/2nd%20year/PE/EX4): 
 5. [Exercise 5](/2nd%20year/PE/EX5): 
