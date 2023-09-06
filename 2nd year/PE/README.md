@@ -11,16 +11,16 @@ This repository contains the source code and documentation for my Probability an
 
 ## Exercise List
 
-1. [Exercise 1](/EX1): 
-2. [Exercise 2](/EX2): 
-3. [Exercise 3](/EX3): 
-4. [Exercise 4](/EX4): 
-5. [Exercise 5](/EX5): 
-6. [Exercise 6](/EX6): 
-7. [Exercise 7](/EX7): 
-8. [Exercise 8](/EX8): 
-9. [Exercise 9](/EX9): 
-10. [Exercise 10](/EX10): 
+1. [Exercise 1](/PE/EX1): 
+2. [Exercise 2](/PE/X2): 
+3. [Exercise 3](/PE/EX3): 
+4. [Exercise 4](/PE/EX4): 
+5. [Exercise 5](/PE/EX5): 
+6. [Exercise 6](/PE/EX6): 
+7. [Exercise 7](/PE/EX7): 
+8. [Exercise 8](/PE/EX8): 
+9. [Exercise 9](/PE/EX9): 
+10. [Exercise 10](/PE/EX10): 
 
 ## Usage
 
