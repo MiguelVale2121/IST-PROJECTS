@@ -1,5 +1,8 @@
 # Object-oriented programming - Warehouse Manager Project
 
+## Grade
+Grade: 17.48
+
 ## Created with ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ## Branches
@@ -55,4 +58,6 @@ For commits use: <br>
 
 `(desc)`<br>
 Changes description
+
+
 
